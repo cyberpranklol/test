@@ -7,7 +7,7 @@
 ?>
 
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
    <title>Postani programer</title>
 </head>
